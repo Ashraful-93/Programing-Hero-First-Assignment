@@ -76,5 +76,27 @@
     max-height: 300px;
 }
 
+/* Instagram section start */
 
+.instagram-section{
+    margin: 50px 150px ;
+}
 
+.instagram{
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.instagram-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    margin: 20px 0px;
+}
+
+.instagram-img{
+    width: 240px;
+    height: 300px;
+    margin-right: 10px;
+}
