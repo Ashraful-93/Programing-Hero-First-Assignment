@@ -132,3 +132,21 @@
     margin-right: 10px;
     padding: 5px 15px;
 }
+
+/* Footer section start */
+
+footer{
+    /* height: 40vh; */
+    background: #111010;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.footer-info{
+   padding-top: 100px;
+}
+
+.copyright{
+    color: rgba(255, 255, 255, 0.40);
+    padding-bottom: 50px;
+} 
