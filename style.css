@@ -22,9 +22,6 @@
     margin-bottom: -55px;
     
 }
-/* .banner-info h1,p{
-    width: 50%;
-} */
 
 .banner-title{
     color: #272727;
@@ -33,9 +30,9 @@
 }
 .description{
     color: rgba(39, 39, 39, 0.60);
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 400;
-    line-height: 30px;
+    line-height: 20px;
     max-width: 500px;
     margin: 20px 0px;
 }
@@ -45,7 +42,39 @@
     background: #E55473;
     border: none;
     padding: 10px;
-
     color: #FFF;
     font-size: 16px;
 }
+
+.primary-color{
+    color: #E55473;
+}
+
+/* Hot Deal section start */
+
+.Hot-deal-banner{
+    height: 400px;
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Hot-deal-info{
+    text-align: center;
+    padding-right: 100px;
+}
+
+.section-title{
+    color: #272727;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.Hot-deal-img{
+    width: 200px;
+    max-height: 300px;
+}
+
+
+
