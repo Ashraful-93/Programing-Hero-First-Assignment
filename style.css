@@ -120,6 +120,31 @@
     font-weight: bold;
     color: black;
 }
+
+/* Promotional information section start */
+
+.promotional-info{
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    height: 200px;
+    margin: 150px 210px 100px 210px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.promotional-decription{
+    text-align: center;
+    color: rgba(39, 39, 39, 0.80);
+}
+
+.promotional-decription img{
+    width: 60px;
+    height: 60px;
+}
+
+
+
 /* Hot Deal section start */
 
 .Hot-deal-banner{
