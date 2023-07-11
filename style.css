@@ -7,7 +7,7 @@
 }
 
 .nav-container{
-    background-color: rgb(229, 84, 115);
+    background-color: rgba(229, 84, 115, 0.2);
     display: flex;
     padding: 10px;
     justify-content: space-around;
@@ -49,9 +49,8 @@
 
 .banner-img{
     width: 430px;
-    max-height: 650px;
+    max-height: 550px;
     margin-bottom: -55px;
-    
 }
 
 .banner-title{
@@ -81,6 +80,46 @@
     color: #E55473;
 }
 
+/* Featured flowers section start */
+
+.Featured-flowers{
+    text-align: center;
+}
+
+.featuerd-flowers-card{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.img-card{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 300px;
+    height: 350px;
+    margin-right: 10px;
+}
+.card2{
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.card3{
+    background: rgba(71, 125, 17, 0.15);
+
+}
+
+.img-card img{
+    width: 250px;
+    height: 300px;
+    padding-top: 50px;
+    padding-left: 40px;
+}
+
+.img-card a{
+    text-align: center;
+    margin-left: 100px;
+    font-weight: bold;
+    color: black;
+}
 /* Hot Deal section start */
 
 .Hot-deal-banner{
