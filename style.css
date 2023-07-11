@@ -82,21 +82,24 @@
 
 /* Featured flowers section start */
 
+.Featured-flowers-section{
+    margin:50px 150px;
+}
 .Featured-flowers{
     text-align: center;
 }
 
 .featuerd-flowers-card{
     display: flex;
-    justify-content: center;
-    margin-bottom: 100px;
+    justify-content: space-between;
+    margin-top: 50px;
 }
 .img-card{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-    width: 300px;
-    height: 350px;
-    margin-right: 10px;
+    width: 330px;
+    height: 360px;
+    
 }
 .card2{
     background: rgba(5, 151, 160, 0.15);
@@ -110,7 +113,7 @@
 .img-card img{
     width: 250px;
     height: 300px;
-    padding-top: 50px;
+    padding-top: 60px;
     padding-left: 40px;
 }
 
@@ -127,7 +130,7 @@
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
     height: 200px;
-    margin: 150px 210px 100px 210px;
+    margin: 150px 150px;
     display: flex;
     align-items: center;
     justify-content: space-around;
